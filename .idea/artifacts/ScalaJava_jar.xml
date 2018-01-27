@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ScalaJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ScalaJava_jar</output-path>
+    <root id="archive" name="ScalaJava.jar">
+      <element id="module-output" name="ScalaJava" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
